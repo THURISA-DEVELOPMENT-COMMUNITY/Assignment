@@ -38,6 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # THIRDPARTY INSTALLED PACKAGES
+    'rest_framework',
+    'drf_yasg',
+
+
     # USER INSTALLED APPS
     'authentication',
     'chat',
